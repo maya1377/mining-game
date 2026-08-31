@@ -1,0 +1,6 @@
+{
+  "name": "みんなで採掘！",
+  "description": "「どこ掘る？」3つの採掘エリアから選んで一攫千金を狙う、2〜4人用ローカル対戦採掘パーティゲーム！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
